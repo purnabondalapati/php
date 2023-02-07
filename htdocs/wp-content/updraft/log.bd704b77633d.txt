@@ -1,0 +1,388 @@
+0000.000 (0) Opened log file at time: Mon, 09 Jan 2023 11:37:51 +0000 on https://aphportal.rf.gd
+0000.002 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.22.24 WP: 6.1.1 PHP: 7.4.8 (apache2handler, Linux freeweb30.byetcluster.com 4.18.0-372.32.1.lve.el8.x86_64 #1 SMP Wed Nov 2 18:24:24 EDT 2022 x86_64) MySQL: 10.3.27-MariaDB (max packet size=3145728) WPLANG: en_US Server: Apache safe_mode: 0 max_execution_time: 60 memory_limit: 128M (used: 61.4M | 33M) multisite: N openssl: OpenSSL 1.1.1g  21 Apr 2020 mcrypt: N LANG: C ZipArchive::addFile: Y
+0000.003 (0) Free space on disk containing Updraft's temporary directory: Unknown
+0000.006 (0) Tasks: Backup files: 1 (schedule: unset) Backup DB: 1 (schedule: unset)
+0000.037 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.039 (0) Set semaphore last lock (fd) time to 2023-01-09 11:37:51
+0000.040 (0) Semaphore lock (fd) complete
+0000.045 (0) Backup run: resumption=0, nonce=bd704b77633d, file_nonce=bd704b77633d begun at=1673264271 (0s ago), job type=backup
+0000.046 (0) Scheduling a resumption (1) after 522 seconds (1673264793) in case this run gets aborted
+0000.061 (0) Checking if we have a zip executable available
+0000.063 (0) Creation of backups of directories: beginning
+0000.066 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0002.778 (0) Total entities for the zip file: 961 directories, 4391 files (0 skipped as non-modified), 88.9 MB
+0002.785 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 1 (1) files added so far); re-opening (prior size: 0 KB)
+0002.977 (0) Zip: backup_2023-01-09-1137_All_Product_Handbook_bd704b77633d-plugins.zip.tmp: 100 files added (on-disk size: 170.3 KB)
+0002.991 (0) Zip: backup_2023-01-09-1137_All_Product_Handbook_bd704b77633d-plugins.zip.tmp: 200 files added (on-disk size: 170.3 KB)
+0003.006 (0) Zip: backup_2023-01-09-1137_All_Product_Handbook_bd704b77633d-plugins.zip.tmp: 300 files added (on-disk size: 170.3 KB)
+0003.020 (0) Zip: backup_2023-01-09-1137_All_Product_Handbook_bd704b77633d-plugins.zip.tmp: 400 files added (on-disk size: 170.3 KB)
+0003.034 (0) Zip: backup_2023-01-09-1137_All_Product_Handbook_bd704b77633d-plugins.zip.tmp: 500 files added (on-disk size: 170.3 KB)
+0003.048 (0) Zip: backup_2023-01-09-1137_All_Product_Handbook_bd704b77633d-plugins.zip.tmp: 600 files added (on-disk size: 170.3 KB)
+0003.061 (0) Zip: backup_2023-01-09-1137_All_Product_Handbook_bd704b77633d-plugins.zip.tmp: 700 files added (on-disk size: 170.3 KB)
+0003.075 (0) Zip: backup_2023-01-09-1137_All_Product_Handbook_bd704b77633d-plugins.zip.tmp: 800 files added (on-disk size: 170.3 KB)
+0003.088 (0) Zip: backup_2023-01-09-1137_All_Product_Handbook_bd704b77633d-plugins.zip.tmp: 900 files added (on-disk size: 170.3 KB)
+0003.102 (0) Zip: backup_2023-01-09-1137_All_Product_Handbook_bd704b77633d-plugins.zip.tmp: 1000 files added (on-disk size: 170.3 KB)
+0003.103 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (22.9 MB, 4391 files batched, 1001 (1002) added so far); re-opening (prior size: 170.3 KB)
+0029.481 (0) Zip: backup_2023-01-09-1137_All_Product_Handbook_bd704b77633d-plugins.zip.tmp: 1100 files added (on-disk size: 6881 KB)
+0029.494 (0) Zip: backup_2023-01-09-1137_All_Product_Handbook_bd704b77633d-plugins.zip.tmp: 1200 files added (on-disk size: 6881 KB)
+0029.507 (0) Zip: backup_2023-01-09-1137_All_Product_Handbook_bd704b77633d-plugins.zip.tmp: 1300 files added (on-disk size: 6881 KB)
+0029.520 (0) Zip: backup_2023-01-09-1137_All_Product_Handbook_bd704b77633d-plugins.zip.tmp: 1400 files added (on-disk size: 6881 KB)
+0029.534 (0) Zip: backup_2023-01-09-1137_All_Product_Handbook_bd704b77633d-plugins.zip.tmp: 1500 files added (on-disk size: 6881 KB)
+0029.547 (0) Zip: backup_2023-01-09-1137_All_Product_Handbook_bd704b77633d-plugins.zip.tmp: 1600 files added (on-disk size: 6881 KB)
+0029.561 (0) Zip: backup_2023-01-09-1137_All_Product_Handbook_bd704b77633d-plugins.zip.tmp: 1700 files added (on-disk size: 6881 KB)
+0029.574 (0) Zip: backup_2023-01-09-1137_All_Product_Handbook_bd704b77633d-plugins.zip.tmp: 1800 files added (on-disk size: 6881 KB)
+0029.587 (0) Zip: backup_2023-01-09-1137_All_Product_Handbook_bd704b77633d-plugins.zip.tmp: 1900 files added (on-disk size: 6881 KB)
+0029.599 (0) Zip: backup_2023-01-09-1137_All_Product_Handbook_bd704b77633d-plugins.zip.tmp: 2000 files added (on-disk size: 6881 KB)
+0029.600 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (17.9 MB, 4391 files batched, 1001 (2003) added so far); re-opening (prior size: 6881 KB)
+0054.964 (0) Zip: backup_2023-01-09-1137_All_Product_Handbook_bd704b77633d-plugins.zip.tmp: 2100 files added (on-disk size: 13446.3 KB)
+0054.979 (0) Zip: backup_2023-01-09-1137_All_Product_Handbook_bd704b77633d-plugins.zip.tmp: 2200 files added (on-disk size: 13446.3 KB)
+0054.993 (0) Zip: backup_2023-01-09-1137_All_Product_Handbook_bd704b77633d-plugins.zip.tmp: 2300 files added (on-disk size: 13446.3 KB)
+0055.008 (0) Zip: backup_2023-01-09-1137_All_Product_Handbook_bd704b77633d-plugins.zip.tmp: 2400 files added (on-disk size: 13446.3 KB)
+0055.022 (0) Zip: backup_2023-01-09-1137_All_Product_Handbook_bd704b77633d-plugins.zip.tmp: 2500 files added (on-disk size: 13446.3 KB)
+0055.037 (0) Zip: backup_2023-01-09-1137_All_Product_Handbook_bd704b77633d-plugins.zip.tmp: 2600 files added (on-disk size: 13446.3 KB)
+0055.052 (0) Zip: backup_2023-01-09-1137_All_Product_Handbook_bd704b77633d-plugins.zip.tmp: 2700 files added (on-disk size: 13446.3 KB)
+0055.066 (0) Zip: backup_2023-01-09-1137_All_Product_Handbook_bd704b77633d-plugins.zip.tmp: 2800 files added (on-disk size: 13446.3 KB)
+0055.080 (0) Zip: backup_2023-01-09-1137_All_Product_Handbook_bd704b77633d-plugins.zip.tmp: 2900 files added (on-disk size: 13446.3 KB)
+0055.094 (0) Zip: backup_2023-01-09-1137_All_Product_Handbook_bd704b77633d-plugins.zip.tmp: 3000 files added (on-disk size: 13446.3 KB)
+0055.096 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (21.6 MB, 4391 files batched, 1001 (3004) added so far); re-opening (prior size: 13446.3 KB)
+0094.723 (0) Zip: backup_2023-01-09-1137_All_Product_Handbook_bd704b77633d-plugins.zip.tmp: 3100 files added (on-disk size: 20561.4 KB)
+0094.737 (0) Zip: backup_2023-01-09-1137_All_Product_Handbook_bd704b77633d-plugins.zip.tmp: 3200 files added (on-disk size: 20561.4 KB)
+0094.752 (0) Zip: backup_2023-01-09-1137_All_Product_Handbook_bd704b77633d-plugins.zip.tmp: 3300 files added (on-disk size: 20561.4 KB)
+0094.766 (0) Zip: backup_2023-01-09-1137_All_Product_Handbook_bd704b77633d-plugins.zip.tmp: 3400 files added (on-disk size: 20561.4 KB)
+0094.779 (0) Zip: backup_2023-01-09-1137_All_Product_Handbook_bd704b77633d-plugins.zip.tmp: 3500 files added (on-disk size: 20561.4 KB)
+0094.793 (0) Zip: backup_2023-01-09-1137_All_Product_Handbook_bd704b77633d-plugins.zip.tmp: 3600 files added (on-disk size: 20561.4 KB)
+0094.807 (0) Zip: backup_2023-01-09-1137_All_Product_Handbook_bd704b77633d-plugins.zip.tmp: 3700 files added (on-disk size: 20561.4 KB)
+0094.822 (0) Zip: backup_2023-01-09-1137_All_Product_Handbook_bd704b77633d-plugins.zip.tmp: 3800 files added (on-disk size: 20561.4 KB)
+0094.837 (0) Zip: backup_2023-01-09-1137_All_Product_Handbook_bd704b77633d-plugins.zip.tmp: 3900 files added (on-disk size: 20561.4 KB)
+0094.851 (0) Zip: backup_2023-01-09-1137_All_Product_Handbook_bd704b77633d-plugins.zip.tmp: 4000 files added (on-disk size: 20561.4 KB)
+0094.853 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (22.4 MB, 4391 files batched, 1001 (4005) added so far); re-opening (prior size: 20561.4 KB)
+0140.608 (0) Zip: backup_2023-01-09-1137_All_Product_Handbook_bd704b77633d-plugins.zip.tmp: 4100 files added (on-disk size: 27032.4 KB)
+0140.624 (0) Zip: backup_2023-01-09-1137_All_Product_Handbook_bd704b77633d-plugins.zip.tmp: 4200 files added (on-disk size: 27032.4 KB)
+0140.639 (0) Zip: backup_2023-01-09-1137_All_Product_Handbook_bd704b77633d-plugins.zip.tmp: 4300 files added (on-disk size: 27032.4 KB)
+0172.455 (0) Creating zip file manifest (backup_2023-01-09-1137_All_Product_Handbook_bd704b77633d-plugins.zip.list-temp.tmp)
+0172.715 (0) Successfully created zip file manifest (size: 360896)
+0173.079 (0) Created plugins zip (0) - 28287.1 KB in 173 s (163.5 KB/s) (sha1: 600af1855eb66583f4da6098bd9d1fd48a678421, sha256: b89c5e143c7d5b206da8180202c48f1a614c6126528c79dc51b72d9a9f8195b1)
+0173.086 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0173.086 (0) No remote despatch: user chose no remote backup service
+0173.087 (0) Recording as successfully uploaded: backup_2023-01-09-1137_All_Product_Handbook_bd704b77633d-plugins.zip
+0173.089 (0) Deleting zip manifest (backup_2023-01-09-1137_All_Product_Handbook_bd704b77633d-plugins.zip.list.tmp)
+0173.092 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0173.094 (0) Number of backup sets in history: 2; groups (db): 1
+0173.094 (0) Examining (for databases) backup set with group_id=0, nonce=e89e33f38ce5, datestamp=1672903103 (Jan 05 2023 07:18:23)
+0173.095 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0173.096 (0) Examining (for databases) backup set with group_id=0, nonce=9c1d1434ba47, datestamp=1671779539 (Dec 23 2022 07:12:19)
+0173.096 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0173.096 (0) Number of backup sets in history: 2; groups (files): 1
+0173.097 (0) Examining (for files) backup set with nonce=e89e33f38ce5, datestamp=1672903103 (Jan 05 2023 07:18:23)
+0173.097 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0173.097 (0) Examining (for files) backup set with nonce=9c1d1434ba47, datestamp=1671779539 (Dec 23 2022 07:12:19)
+0173.097 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0173.097 (0) Retain: saving new backup history (sets now: 2) and finishing retain operation
+0173.102 (0) Beginning creation of dump of themes (split every: 400 MB)
+0173.609 (0) Total entities for the zip file: 143 directories, 594 files (0 skipped as non-modified), 17.2 MB
+0173.626 (0) Zip: backup_2023-01-09-1137_All_Product_Handbook_bd704b77633d-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0173.640 (0) Zip: backup_2023-01-09-1137_All_Product_Handbook_bd704b77633d-themes.zip.tmp: 200 files added (on-disk size: 0 KB)
+0173.654 (0) Zip: backup_2023-01-09-1137_All_Product_Handbook_bd704b77633d-themes.zip.tmp: 300 files added (on-disk size: 0 KB)
+0173.668 (0) Zip: backup_2023-01-09-1137_All_Product_Handbook_bd704b77633d-themes.zip.tmp: 400 files added (on-disk size: 0 KB)
+0173.684 (0) Zip: backup_2023-01-09-1137_All_Product_Handbook_bd704b77633d-themes.zip.tmp: 500 files added (on-disk size: 0 KB)
+0204.690 (0) Creating zip file manifest (backup_2023-01-09-1137_All_Product_Handbook_bd704b77633d-themes.zip.list-temp.tmp)
+0204.717 (0) Successfully created zip file manifest (size: 42849)
+0204.909 (0) Created themes zip (0) - 14249.6 KB in 31.8 s (448.1 KB/s) (sha1: 63d1119ab6e0538d547b1a4f45e920509b367106, sha256: 3f358e96982800eb656b1f2a2d4d104fb475cddd6f905dbd18f51497b56525e2)
+0204.913 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0204.914 (0) No remote despatch: user chose no remote backup service
+0204.915 (0) Recording as successfully uploaded: backup_2023-01-09-1137_All_Product_Handbook_bd704b77633d-themes.zip
+0204.916 (0) Deleting zip manifest (backup_2023-01-09-1137_All_Product_Handbook_bd704b77633d-themes.zip.list.tmp)
+0204.918 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0204.919 (0) Number of backup sets in history: 2; groups (db): 1
+0204.921 (0) Examining (for databases) backup set with group_id=0, nonce=e89e33f38ce5, datestamp=1672903103 (Jan 05 2023 07:18:23)
+0204.921 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0204.922 (0) Examining (for databases) backup set with group_id=0, nonce=9c1d1434ba47, datestamp=1671779539 (Dec 23 2022 07:12:19)
+0204.922 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0204.922 (0) Number of backup sets in history: 2; groups (files): 1
+0204.923 (0) Examining (for files) backup set with nonce=e89e33f38ce5, datestamp=1672903103 (Jan 05 2023 07:18:23)
+0204.923 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0204.923 (0) Examining (for files) backup set with nonce=9c1d1434ba47, datestamp=1671779539 (Dec 23 2022 07:12:19)
+0204.923 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0204.924 (0) Retain: saving new backup history (sets now: 2) and finishing retain operation
+0204.929 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0204.930 (0) Looking for candidates to backup in: /home/vol17_1/epizy.com/epiz_33097279/htdocs/wp-content/uploads
+0204.931 (0) finding files: wpcf7_uploads: adding to list (1)
+0204.932 (0) finding files: demo-pack: adding to list (2)
+0204.932 (0) finding files: 2021: adding to list (3)
+0204.933 (0) finding files: elementor: adding to list (4)
+0204.934 (0) finding files: 2022: adding to list (5)
+0204.934 (0) finding files: essential-addons-elementor: adding to list (6)
+0204.935 (0) finding files: ultimatemember: adding to list (7)
+0204.935 (0) finding files: 2023: adding to list (8)
+0204.936 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0205.643 (0) Total entities for the zip file: 17 directories, 929 files (0 skipped as non-modified), 86.9 MB
+0205.657 (0) Zip: backup_2023-01-09-1137_All_Product_Handbook_bd704b77633d-uploads.zip.tmp: 100 files added (on-disk size: 0 KB)
+0205.670 (0) Zip: backup_2023-01-09-1137_All_Product_Handbook_bd704b77633d-uploads.zip.tmp: 200 files added (on-disk size: 0 KB)
+0205.682 (0) Zip: backup_2023-01-09-1137_All_Product_Handbook_bd704b77633d-uploads.zip.tmp: 300 files added (on-disk size: 0 KB)
+0205.696 (0) Zip: backup_2023-01-09-1137_All_Product_Handbook_bd704b77633d-uploads.zip.tmp: 400 files added (on-disk size: 0 KB)
+0205.700 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 25 MB added on this batch (25 MB, 929 files batched, 431 (431) added so far); re-opening (prior size: 0 KB)
+0249.898 (0) A useful amount of data was added after this amount of zip processing: 45.3 s (normalised: 45.2 s, rate: 566.4 KB/s)
+0249.899 (0) Performance is good - will increase the amount of data we attempt to batch (time=45.2784750462, normalised_time=45.1951358253, max_time=249.898223877, data points known=1, old_max_bytes=26214400, new_max_bytes=86968633)
+0249.915 (0) Zip: backup_2023-01-09-1137_All_Product_Handbook_bd704b77633d-uploads.zip.tmp: 500 files added (on-disk size: 23656.4 KB)
+0249.928 (0) Zip: backup_2023-01-09-1137_All_Product_Handbook_bd704b77633d-uploads.zip.tmp: 600 files added (on-disk size: 23656.4 KB)
+0249.941 (0) Zip: backup_2023-01-09-1137_All_Product_Handbook_bd704b77633d-uploads.zip.tmp: 700 files added (on-disk size: 23656.4 KB)
+0249.954 (0) Zip: backup_2023-01-09-1137_All_Product_Handbook_bd704b77633d-uploads.zip.tmp: 800 files added (on-disk size: 23656.4 KB)
+0249.968 (0) Zip: backup_2023-01-09-1137_All_Product_Handbook_bd704b77633d-uploads.zip.tmp: 900 files added (on-disk size: 23656.4 KB)
+0377.467 (0) Creating zip file manifest (backup_2023-01-09-1137_All_Product_Handbook_bd704b77633d-uploads.zip.list-temp.tmp)
+0377.495 (0) Successfully created zip file manifest (size: 51496)
+0378.588 (0) Created uploads zip (0) - 83049.5 KB in 173.6 s (478.3 KB/s) (sha1: e563208fa7ad07553864fddfb13ba0b765b98cd8, sha256: e63bd794be3b66d314fade1ba50853e620cf120bae71bb5f2b78fe6cafbacd13)
+0378.593 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0378.594 (0) No remote despatch: user chose no remote backup service
+0378.595 (0) Recording as successfully uploaded: backup_2023-01-09-1137_All_Product_Handbook_bd704b77633d-uploads.zip
+0378.596 (0) Deleting zip manifest (backup_2023-01-09-1137_All_Product_Handbook_bd704b77633d-uploads.zip.list.tmp)
+0378.598 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0378.599 (0) Number of backup sets in history: 2; groups (db): 1
+0378.600 (0) Examining (for databases) backup set with group_id=0, nonce=e89e33f38ce5, datestamp=1672903103 (Jan 05 2023 07:18:23)
+0378.601 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0378.601 (0) Examining (for databases) backup set with group_id=0, nonce=9c1d1434ba47, datestamp=1671779539 (Dec 23 2022 07:12:19)
+0378.601 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0378.602 (0) Number of backup sets in history: 2; groups (files): 1
+0378.602 (0) Examining (for files) backup set with nonce=e89e33f38ce5, datestamp=1672903103 (Jan 05 2023 07:18:23)
+0378.602 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0378.603 (0) Examining (for files) backup set with nonce=9c1d1434ba47, datestamp=1671779539 (Dec 23 2022 07:12:19)
+0378.603 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0378.603 (0) Retain: saving new backup history (sets now: 2) and finishing retain operation
+0378.609 (0) Beginning backup of other directories found in the content directory (index: 0)
+0378.610 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0378.611 (0) Looking for candidates to backup in: /home/vol17_1/epizy.com/epiz_33097279/htdocs/wp-content
+0378.611 (0) finding files: index.php: adding to list (1)
+0378.612 (0) finding files: plugins: skipping: this is the plugins directory
+0378.613 (0) finding files: themes: skipping: this is the themes directory
+0378.613 (0) finding files: uploads: skipping: this is the uploads directory
+0378.614 (0) finding files: upgrade: skipping: excluded by options
+0378.615 (0) finding files: fonts: adding to list (2)
+0378.615 (0) finding files: languages: adding to list (3)
+0378.616 (0) finding files: updraft: skipping: this is the updraft directory
+0379.735 (0) Total entities for the zip file: 129 directories, 1720 files (0 skipped as non-modified), 30.2 MB
+0379.752 (0) Zip: backup_2023-01-09-1137_All_Product_Handbook_bd704b77633d-others.zip.tmp: 100 files added (on-disk size: 0 KB)
+0379.767 (0) Zip: backup_2023-01-09-1137_All_Product_Handbook_bd704b77633d-others.zip.tmp: 200 files added (on-disk size: 0 KB)
+0379.781 (0) Zip: backup_2023-01-09-1137_All_Product_Handbook_bd704b77633d-others.zip.tmp: 300 files added (on-disk size: 0 KB)
+0379.796 (0) Zip: backup_2023-01-09-1137_All_Product_Handbook_bd704b77633d-others.zip.tmp: 400 files added (on-disk size: 0 KB)
+0379.811 (0) Zip: backup_2023-01-09-1137_All_Product_Handbook_bd704b77633d-others.zip.tmp: 500 files added (on-disk size: 0 KB)
+0379.824 (0) Zip: backup_2023-01-09-1137_All_Product_Handbook_bd704b77633d-others.zip.tmp: 600 files added (on-disk size: 0 KB)
+0379.838 (0) Zip: backup_2023-01-09-1137_All_Product_Handbook_bd704b77633d-others.zip.tmp: 700 files added (on-disk size: 0 KB)
+0379.851 (0) Zip: backup_2023-01-09-1137_All_Product_Handbook_bd704b77633d-others.zip.tmp: 800 files added (on-disk size: 0 KB)
+0379.864 (0) Zip: backup_2023-01-09-1137_All_Product_Handbook_bd704b77633d-others.zip.tmp: 900 files added (on-disk size: 0 KB)
+0379.877 (0) Zip: backup_2023-01-09-1137_All_Product_Handbook_bd704b77633d-others.zip.tmp: 1000 files added (on-disk size: 0 KB)
+0379.878 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (17.7 MB, 1720 files batched, 1001 (1001) added so far); re-opening (prior size: 0 KB)
+0416.086 (0) Zip: backup_2023-01-09-1137_All_Product_Handbook_bd704b77633d-others.zip.tmp: 1100 files added (on-disk size: 17204.6 KB)
+0416.100 (0) Zip: backup_2023-01-09-1137_All_Product_Handbook_bd704b77633d-others.zip.tmp: 1200 files added (on-disk size: 17204.6 KB)
+0416.113 (0) Zip: backup_2023-01-09-1137_All_Product_Handbook_bd704b77633d-others.zip.tmp: 1300 files added (on-disk size: 17204.6 KB)
+0416.127 (0) Zip: backup_2023-01-09-1137_All_Product_Handbook_bd704b77633d-others.zip.tmp: 1400 files added (on-disk size: 17204.6 KB)
+0416.141 (0) Zip: backup_2023-01-09-1137_All_Product_Handbook_bd704b77633d-others.zip.tmp: 1500 files added (on-disk size: 17204.6 KB)
+0416.155 (0) Zip: backup_2023-01-09-1137_All_Product_Handbook_bd704b77633d-others.zip.tmp: 1600 files added (on-disk size: 17204.6 KB)
+0416.168 (0) Zip: backup_2023-01-09-1137_All_Product_Handbook_bd704b77633d-others.zip.tmp: 1700 files added (on-disk size: 17204.6 KB)
+0459.082 (0) Creating zip file manifest (backup_2023-01-09-1137_All_Product_Handbook_bd704b77633d-others.zip.list-temp.tmp)
+0459.149 (0) Successfully created zip file manifest (size: 118040)
+0459.532 (0) Created others zip (0) - 30107.1 KB in 80.9 s (372.1 KB/s) (sha1: 04cd4230d6785bb149a376cff8d619aee38731ee, sha256: def3335bc8473f080bb162c28e34510cff190ca8aa35ebcbb05b16adfc134904)
+0459.539 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0459.539 (0) No remote despatch: user chose no remote backup service
+0459.540 (0) Recording as successfully uploaded: backup_2023-01-09-1137_All_Product_Handbook_bd704b77633d-others.zip
+0459.541 (0) Deleting zip manifest (backup_2023-01-09-1137_All_Product_Handbook_bd704b77633d-others.zip.list.tmp)
+0459.543 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0459.544 (0) Number of backup sets in history: 2; groups (db): 1
+0459.545 (0) Examining (for databases) backup set with group_id=0, nonce=e89e33f38ce5, datestamp=1672903103 (Jan 05 2023 07:18:23)
+0459.546 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0459.546 (0) Examining (for databases) backup set with group_id=0, nonce=9c1d1434ba47, datestamp=1671779539 (Dec 23 2022 07:12:19)
+0459.546 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0459.546 (0) Number of backup sets in history: 2; groups (files): 1
+0459.547 (0) Examining (for files) backup set with nonce=e89e33f38ce5, datestamp=1672903103 (Jan 05 2023 07:18:23)
+0459.547 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0459.547 (0) Examining (for files) backup set with nonce=9c1d1434ba47, datestamp=1671779539 (Dec 23 2022 07:12:19)
+0459.547 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0459.548 (0) Retain: saving new backup history (sets now: 2) and finishing retain operation
+0459.553 (0) Saving backup status to database (elements: 8)
+0459.556 (0) Beginning creation of database dump (WordPress DB)
+0459.557 (0) Couldn't get the sql_mode value (N;); will not attempt any adjustment
+0459.574 (0) Table wpgn_options: Total expected rows (via COUNT): 288
+0459.574 (0) Table is relatively small; fetch_rows will thus be: 500 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0459.673 (0) Table wpgn_options: Rows added in this batch (next record: 7071): 284 (uncompressed bytes in this segment=2094282) in 0.10 seconds
+0459.679 (0) Table wpgn_options: finishing file(s) (2, 366.1 KB)
+0459.683 (0) Table wpgn_users: Total expected rows (via COUNT): 3
+0459.683 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0459.685 (0) Table wpgn_users: Rows added in this batch (next record: 4): 3 (uncompressed bytes in this segment=1653) in 0.00 seconds
+0459.689 (0) Table wpgn_users: finishing file(s) (2, 0.7 KB)
+0459.694 (0) Table wpgn_usermeta: Total expected rows (via COUNT): 88
+0459.695 (0) Table is relatively small; fetch_rows will thus be: 100 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0459.698 (0) Table wpgn_usermeta: Rows added in this batch (next record: 128): 88 (uncompressed bytes in this segment=7556) in 0.01 seconds
+0459.702 (0) Table wpgn_usermeta: finishing file(s) (2, 2.4 KB)
+0459.710 (0) Table wpgn_commentmeta: Total expected rows (via COUNT): 0
+0459.712 (0) Table wpgn_commentmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=696) in 0.00 seconds
+0459.717 (0) Table wpgn_commentmeta: finishing file(s) (2, 0.4 KB)
+0459.723 (0) Table wpgn_comments: Total expected rows (via COUNT): 1
+0459.724 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0459.727 (0) Table wpgn_comments: Rows added in this batch (next record: 2): 1 (uncompressed bytes in this segment=2147) in 0.01 seconds
+0459.731 (0) Table wpgn_comments: finishing file(s) (2, 0.8 KB)
+0459.737 (0) Table wpgn_links: Total expected rows (via COUNT): 0
+0459.739 (0) Table wpgn_links: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1278) in 0.00 seconds
+0459.743 (0) Table wpgn_links: finishing file(s) (2, 0.5 KB)
+0459.826 (0) Table wpgn_postmeta: Total expected rows (approximate): 30829
+0467.584 (0) Table wpgn_postmeta: Rows added in this batch (next record: 33018): 30829 (uncompressed bytes in this segment=89079870) in 7.84 seconds
+0467.602 (0) Table wpgn_postmeta: finishing file(s) (2, 8225 KB)
+0467.648 (0) Table wpgn_posts: Total expected rows (approximate): 3278
+0473.425 (0) Table wpgn_posts: Rows added in this batch (next record: 3722): 3278 (uncompressed bytes in this segment=56657976) in 5.82 seconds
+0473.445 (0) Table wpgn_posts: finishing file(s) (2, 5976.2 KB)
+0473.449 (0) Table wpgn_term_relationships: Total expected rows (approximate): 163
+0473.452 (0) Table wpgn_term_relationships: Rows added in this batch (next record: 100000): 163 (uncompressed bytes in this segment=3107) in 0.00 seconds
+0473.457 (0) Table wpgn_term_relationships: finishing file(s) (2, 0.8 KB)
+0473.462 (0) Table wpgn_term_taxonomy: Total expected rows (via COUNT): 7
+0473.463 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0473.466 (0) Table wpgn_term_taxonomy: Rows added in this batch (next record: 7): 7 (uncompressed bytes in this segment=1153) in 0.01 seconds
+0473.470 (0) Table wpgn_term_taxonomy: finishing file(s) (2, 0.5 KB)
+0473.476 (0) Table wpgn_termmeta: Total expected rows (via COUNT): 0
+0473.478 (0) Table wpgn_termmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=669) in 0.00 seconds
+0473.482 (0) Table wpgn_termmeta: finishing file(s) (2, 0.4 KB)
+0473.486 (0) Table wpgn_terms: Total expected rows (via COUNT): 7
+0473.487 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0473.490 (0) Table wpgn_terms: Rows added in this batch (next record: 7): 7 (uncompressed bytes in this segment=926) in 0.00 seconds
+0473.493 (0) Table wpgn_terms: finishing file(s) (2, 0.5 KB)
+0473.500 (0) Table wpgn_e_events: Total expected rows (via COUNT): 1
+0473.501 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0473.503 (0) Table wpgn_e_events: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=818) in 0.00 seconds
+0473.507 (0) Table wpgn_e_events: finishing file(s) (2, 0.5 KB)
+0473.515 (0) Table wpgn_learnpress_order_itemmeta: Total expected rows (via COUNT): 0
+0473.517 (0) Table wpgn_learnpress_order_itemmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=955) in 0.00 seconds
+0473.522 (0) Table wpgn_learnpress_order_itemmeta: finishing file(s) (2, 0.4 KB)
+0473.529 (0) Table wpgn_learnpress_order_items: Total expected rows (via COUNT): 0
+0473.531 (0) Table wpgn_learnpress_order_items: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=866) in 0.01 seconds
+0473.536 (0) Table wpgn_learnpress_order_items: finishing file(s) (2, 0.4 KB)
+0473.543 (0) Table wpgn_learnpress_question_answermeta: Total expected rows (via COUNT): 0
+0473.545 (0) Table wpgn_learnpress_question_answermeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=847) in 0.00 seconds
+0473.549 (0) Table wpgn_learnpress_question_answermeta: finishing file(s) (2, 0.4 KB)
+0473.555 (0) Table wpgn_learnpress_question_answers: Total expected rows (via COUNT): 0
+0473.557 (0) Table wpgn_learnpress_question_answers: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=890) in 0.00 seconds
+0473.561 (0) Table wpgn_learnpress_question_answers: finishing file(s) (2, 0.4 KB)
+0473.566 (0) Table wpgn_learnpress_quiz_questions: Total expected rows (via COUNT): 0
+0473.568 (0) Table wpgn_learnpress_quiz_questions: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=777) in 0.00 seconds
+0473.571 (0) Table wpgn_learnpress_quiz_questions: finishing file(s) (2, 0.4 KB)
+0473.577 (0) Table wpgn_learnpress_section_items: Total expected rows (via COUNT): 0
+0473.579 (0) Table wpgn_learnpress_section_items: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=816) in 0.00 seconds
+0473.582 (0) Table wpgn_learnpress_section_items: finishing file(s) (2, 0.4 KB)
+0473.589 (0) Table wpgn_learnpress_sections: Total expected rows (via COUNT): 0
+0473.591 (0) Table wpgn_learnpress_sections: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=821) in 0.00 seconds
+0473.596 (0) Table wpgn_learnpress_sections: finishing file(s) (2, 0.4 KB)
+0473.602 (0) Table wpgn_learnpress_sessions: Total expected rows (approximate): 0
+0473.603 (0) Table wpgn_learnpress_sessions: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=704) in 0.00 seconds
+0473.607 (0) Table wpgn_learnpress_sessions: finishing file(s) (2, 0.4 KB)
+0473.614 (0) Table wpgn_learnpress_user_item_results: Total expected rows (via COUNT): 0
+0473.615 (0) Table wpgn_learnpress_user_item_results: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=685) in 0.00 seconds
+0473.620 (0) Table wpgn_learnpress_user_item_results: finishing file(s) (2, 0.4 KB)
+0473.627 (0) Table wpgn_learnpress_user_itemmeta: Total expected rows (via COUNT): 0
+0473.630 (0) Table wpgn_learnpress_user_itemmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=936) in 0.01 seconds
+0473.634 (0) Table wpgn_learnpress_user_itemmeta: finishing file(s) (2, 0.4 KB)
+0473.640 (0) Table wpgn_learnpress_user_items: Total expected rows (via COUNT): 0
+0473.642 (0) Table wpgn_learnpress_user_items: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1342) in 0.00 seconds
+0473.646 (0) Table wpgn_learnpress_user_items: finishing file(s) (2, 0.5 KB)
+0473.653 (0) Table wpgn_um_metadata: Total expected rows (via COUNT): 0
+0473.654 (0) Table wpgn_um_metadata: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=748) in 0.00 seconds
+0473.659 (0) Table wpgn_um_metadata: finishing file(s) (2, 0.4 KB)
+0473.661 (0) backup_2023-01-09-1137_All_Product_Handbook_bd704b77633d-db-table-wpgn_options.table.tmpr7072.gz (1/25/fopen): adding to final database dump
+0473.957 (0) backup_2023-01-09-1137_All_Product_Handbook_bd704b77633d-db-table-wpgn_options.table.gz (2/25/fopen): adding to final database dump
+0473.958 (0) backup_2023-01-09-1137_All_Product_Handbook_bd704b77633d-db-table-wpgn_users.table.tmpr5.gz (3/25/fopen): adding to final database dump
+0473.959 (0) backup_2023-01-09-1137_All_Product_Handbook_bd704b77633d-db-table-wpgn_users.table.gz (4/25/fopen): adding to final database dump
+0473.959 (0) backup_2023-01-09-1137_All_Product_Handbook_bd704b77633d-db-table-wpgn_usermeta.table.tmpr129.gz (5/25/fopen): adding to final database dump
+0473.960 (0) backup_2023-01-09-1137_All_Product_Handbook_bd704b77633d-db-table-wpgn_usermeta.table.gz (6/25/fopen): adding to final database dump
+0473.961 (0) backup_2023-01-09-1137_All_Product_Handbook_bd704b77633d-db-table-wpgn_commentmeta.table.tmpr0.gz (7/25/fopen): adding to final database dump
+0473.961 (0) backup_2023-01-09-1137_All_Product_Handbook_bd704b77633d-db-table-wpgn_commentmeta.table.gz (8/25/fopen): adding to final database dump
+0473.962 (0) backup_2023-01-09-1137_All_Product_Handbook_bd704b77633d-db-table-wpgn_comments.table.tmpr3.gz (9/25/fopen): adding to final database dump
+0473.963 (0) backup_2023-01-09-1137_All_Product_Handbook_bd704b77633d-db-table-wpgn_comments.table.gz (10/25/fopen): adding to final database dump
+0473.963 (0) backup_2023-01-09-1137_All_Product_Handbook_bd704b77633d-db-table-wpgn_links.table.tmpr0.gz (11/25/fopen): adding to final database dump
+0473.964 (0) backup_2023-01-09-1137_All_Product_Handbook_bd704b77633d-db-table-wpgn_links.table.gz (12/25/fopen): adding to final database dump
+0473.965 (0) backup_2023-01-09-1137_All_Product_Handbook_bd704b77633d-db-table-wpgn_postmeta.table.tmpr33019.gz (13/25/fopen): adding to final database dump
+0482.003 (0) backup_2023-01-09-1137_All_Product_Handbook_bd704b77633d-db-table-wpgn_postmeta.table.gz (14/25/fopen): adding to final database dump
+0482.008 (0) backup_2023-01-09-1137_All_Product_Handbook_bd704b77633d-db-table-wpgn_posts.table.tmpr3723.gz (15/25/fopen): adding to final database dump
+0487.843 (0) backup_2023-01-09-1137_All_Product_Handbook_bd704b77633d-db-table-wpgn_posts.table.gz (16/25/fopen): adding to final database dump
+0487.845 (0) backup_2023-01-09-1137_All_Product_Handbook_bd704b77633d-db-table-wpgn_term_relationships.table.tmpr100001.gz (17/25/fopen): adding to final database dump
+0487.846 (0) backup_2023-01-09-1137_All_Product_Handbook_bd704b77633d-db-table-wpgn_term_relationships.table.gz (18/25/fopen): adding to final database dump
+0487.847 (0) backup_2023-01-09-1137_All_Product_Handbook_bd704b77633d-db-table-wpgn_term_taxonomy.table.tmpr8.gz (19/25/fopen): adding to final database dump
+0487.848 (0) backup_2023-01-09-1137_All_Product_Handbook_bd704b77633d-db-table-wpgn_term_taxonomy.table.gz (20/25/fopen): adding to final database dump
+0487.849 (0) backup_2023-01-09-1137_All_Product_Handbook_bd704b77633d-db-table-wpgn_termmeta.table.tmpr0.gz (21/25/fopen): adding to final database dump
+0487.850 (0) backup_2023-01-09-1137_All_Product_Handbook_bd704b77633d-db-table-wpgn_termmeta.table.gz (22/25/fopen): adding to final database dump
+0487.851 (0) backup_2023-01-09-1137_All_Product_Handbook_bd704b77633d-db-table-wpgn_terms.table.tmpr8.gz (23/25/fopen): adding to final database dump
+0487.852 (0) backup_2023-01-09-1137_All_Product_Handbook_bd704b77633d-db-table-wpgn_terms.table.gz (24/25/fopen): adding to final database dump
+0487.852 (0) backup_2023-01-09-1137_All_Product_Handbook_bd704b77633d-db-table-wpgn_e_events.table.tmpr2.gz (25/25/fopen): adding to final database dump
+0487.854 (0) backup_2023-01-09-1137_All_Product_Handbook_bd704b77633d-db-table-wpgn_e_events.table.gz (26/25/fopen): adding to final database dump
+0487.855 (0) backup_2023-01-09-1137_All_Product_Handbook_bd704b77633d-db-table-wpgn_learnpress_order_itemmeta.table.tmpr0.gz (27/25/fopen): adding to final database dump
+0487.856 (0) backup_2023-01-09-1137_All_Product_Handbook_bd704b77633d-db-table-wpgn_learnpress_order_itemmeta.table.gz (28/25/fopen): adding to final database dump
+0487.856 (0) backup_2023-01-09-1137_All_Product_Handbook_bd704b77633d-db-table-wpgn_learnpress_order_items.table.tmpr0.gz (29/25/fopen): adding to final database dump
+0487.857 (0) backup_2023-01-09-1137_All_Product_Handbook_bd704b77633d-db-table-wpgn_learnpress_order_items.table.gz (30/25/fopen): adding to final database dump
+0487.858 (0) backup_2023-01-09-1137_All_Product_Handbook_bd704b77633d-db-table-wpgn_learnpress_question_answermeta.table.tmpr0.gz (31/25/fopen): adding to final database dump
+0487.859 (0) backup_2023-01-09-1137_All_Product_Handbook_bd704b77633d-db-table-wpgn_learnpress_question_answermeta.table.gz (32/25/fopen): adding to final database dump
+0487.860 (0) backup_2023-01-09-1137_All_Product_Handbook_bd704b77633d-db-table-wpgn_learnpress_question_answers.table.tmpr0.gz (33/25/fopen): adding to final database dump
+0487.861 (0) backup_2023-01-09-1137_All_Product_Handbook_bd704b77633d-db-table-wpgn_learnpress_question_answers.table.gz (34/25/fopen): adding to final database dump
+0487.862 (0) backup_2023-01-09-1137_All_Product_Handbook_bd704b77633d-db-table-wpgn_learnpress_quiz_questions.table.tmpr0.gz (35/25/fopen): adding to final database dump
+0487.862 (0) backup_2023-01-09-1137_All_Product_Handbook_bd704b77633d-db-table-wpgn_learnpress_quiz_questions.table.gz (36/25/fopen): adding to final database dump
+0487.863 (0) backup_2023-01-09-1137_All_Product_Handbook_bd704b77633d-db-table-wpgn_learnpress_section_items.table.tmpr0.gz (37/25/fopen): adding to final database dump
+0487.864 (0) backup_2023-01-09-1137_All_Product_Handbook_bd704b77633d-db-table-wpgn_learnpress_section_items.table.gz (38/25/fopen): adding to final database dump
+0487.865 (0) backup_2023-01-09-1137_All_Product_Handbook_bd704b77633d-db-table-wpgn_learnpress_sections.table.tmpr0.gz (39/25/fopen): adding to final database dump
+0487.866 (0) backup_2023-01-09-1137_All_Product_Handbook_bd704b77633d-db-table-wpgn_learnpress_sections.table.gz (40/25/fopen): adding to final database dump
+0487.866 (0) backup_2023-01-09-1137_All_Product_Handbook_bd704b77633d-db-table-wpgn_learnpress_sessions.table.tmpr1.gz (41/25/fopen): adding to final database dump
+0487.867 (0) backup_2023-01-09-1137_All_Product_Handbook_bd704b77633d-db-table-wpgn_learnpress_sessions.table.gz (42/25/fopen): adding to final database dump
+0487.868 (0) backup_2023-01-09-1137_All_Product_Handbook_bd704b77633d-db-table-wpgn_learnpress_user_item_results.table.tmpr0.gz (43/25/fopen): adding to final database dump
+0487.869 (0) backup_2023-01-09-1137_All_Product_Handbook_bd704b77633d-db-table-wpgn_learnpress_user_item_results.table.gz (44/25/fopen): adding to final database dump
+0487.869 (0) backup_2023-01-09-1137_All_Product_Handbook_bd704b77633d-db-table-wpgn_learnpress_user_itemmeta.table.tmpr0.gz (45/25/fopen): adding to final database dump
+0487.870 (0) backup_2023-01-09-1137_All_Product_Handbook_bd704b77633d-db-table-wpgn_learnpress_user_itemmeta.table.gz (46/25/fopen): adding to final database dump
+0487.871 (0) backup_2023-01-09-1137_All_Product_Handbook_bd704b77633d-db-table-wpgn_learnpress_user_items.table.tmpr0.gz (47/25/fopen): adding to final database dump
+0487.872 (0) backup_2023-01-09-1137_All_Product_Handbook_bd704b77633d-db-table-wpgn_learnpress_user_items.table.gz (48/25/fopen): adding to final database dump
+0487.872 (0) backup_2023-01-09-1137_All_Product_Handbook_bd704b77633d-db-table-wpgn_um_metadata.table.tmpr0.gz (49/25/fopen): adding to final database dump
+0487.873 (0) backup_2023-01-09-1137_All_Product_Handbook_bd704b77633d-db-table-wpgn_um_metadata.table.gz (50/25/fopen): adding to final database dump
+0487.885 (0) backup_2023-01-09-1137_All_Product_Handbook_bd704b77633d-db.gz: finished writing out complete database file (14579.7 KB)
+0488.082 (0) Total database tables backed up: 25 (backup_2023-01-09-1137_All_Product_Handbook_bd704b77633d-db.gz, size: 14929675, sha1: 0030af5925de8a480525641a68a29e506cddb6ec, sha256: da495194d8b5ef85d59de6023731ede0cf4bc7e57261dd86b64e5c374fad6885)
+0488.090 (0) backup_2023-01-09-1137_All_Product_Handbook_bd704b77633d-plugins.zip: plugins: This file has already been successfully uploaded
+0488.090 (0) backup_2023-01-09-1137_All_Product_Handbook_bd704b77633d-themes.zip: themes: This file has already been successfully uploaded
+0488.091 (0) backup_2023-01-09-1137_All_Product_Handbook_bd704b77633d-uploads.zip: uploads: This file has already been successfully uploaded
+0488.092 (0) backup_2023-01-09-1137_All_Product_Handbook_bd704b77633d-others.zip: others: This file has already been successfully uploaded
+0488.092 (0) backup_2023-01-09-1137_All_Product_Handbook_bd704b77633d-db.gz: db: This file has not yet been successfully uploaded: will queue
+0488.093 (0) Saving backup history. Total backup size: 166.3 MB
+0488.096 (0) Requesting upload of the files that have not yet been successfully uploaded (1)
+0488.099 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0488.099 (0) No remote despatch: user chose no remote backup service
+0488.100 (0) Recording as successfully uploaded: backup_2023-01-09-1137_All_Product_Handbook_bd704b77633d-db.gz
+0488.103 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0488.104 (0) Number of backup sets in history: 3; groups (db): 1
+0488.105 (0) Examining (for databases) backup set with group_id=0, nonce=bd704b77633d, datestamp=1673264271 (Jan 09 2023 11:37:51)
+0488.106 (0) This backup set is the backup set just made, so will not be deleted.
+0488.106 (0) Examining (for databases) backup set with group_id=0, nonce=e89e33f38ce5, datestamp=1672903103 (Jan 05 2023 07:18:23)
+0488.106 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0488.106 (0) Examining (for databases) backup set with group_id=0, nonce=9c1d1434ba47, datestamp=1671779539 (Dec 23 2022 07:12:19)
+0488.106 (0) 1671779539: db: this set includes a database (backup_2022-12-23-0712_All_Product_Handbook_9c1d1434ba47-db.gz); db count is now 2
+0488.106 (0) 1671779539: db: over retain limit (2); will delete this database
+0488.106 (0) Delete file: backup_2022-12-23-0712_All_Product_Handbook_9c1d1434ba47-db.gz, service=none
+0488.107 (0) Deleting local copy (backup_2022-12-23-0712_All_Product_Handbook_9c1d1434ba47-db.gz)
+0488.109 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0488.110 (0) Number of backup sets in history: 3; groups (files): 1
+0488.110 (0) Examining (for files) backup set with nonce=bd704b77633d, datestamp=1673264271 (Jan 09 2023 11:37:51)
+0488.110 (0) This backup set is the backup set just made, so will not be deleted.
+0488.111 (0) This backup set is the backup set just made, so will not be deleted.
+0488.111 (0) This backup set is the backup set just made, so will not be deleted.
+0488.111 (0) This backup set is the backup set just made, so will not be deleted.
+0488.111 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0488.112 (0) Examining (for files) backup set with nonce=e89e33f38ce5, datestamp=1672903103 (Jan 05 2023 07:18:23)
+0488.112 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0488.112 (0) Examining (for files) backup set with nonce=9c1d1434ba47, datestamp=1671779539 (Dec 23 2022 07:12:19)
+0488.112 (0) plugins: over retain limit (2); will delete this file entity
+0488.112 (0) themes: over retain limit (2); will delete this file entity
+0488.112 (0) uploads: over retain limit (2); will delete this file entity
+0488.112 (0) others: over retain limit (2); will delete this file entity
+0488.112 (0) Delete file: backup_2022-12-23-0712_All_Product_Handbook_9c1d1434ba47-plugins.zip, service=none
+0488.118 (0) Deleting local copy (backup_2022-12-23-0712_All_Product_Handbook_9c1d1434ba47-plugins.zip)
+0488.120 (0) Delete file: backup_2022-12-23-0712_All_Product_Handbook_9c1d1434ba47-themes.zip, service=none
+0488.121 (0) Deleting local copy (backup_2022-12-23-0712_All_Product_Handbook_9c1d1434ba47-themes.zip)
+0488.122 (0) Delete file: backup_2022-12-23-0712_All_Product_Handbook_9c1d1434ba47-uploads.zip, service=none
+0488.124 (0) Deleting local copy (backup_2022-12-23-0712_All_Product_Handbook_9c1d1434ba47-uploads.zip)
+0488.126 (0) Delete file: backup_2022-12-23-0712_All_Product_Handbook_9c1d1434ba47-others.zip, service=none
+0488.126 (0) Deleting local copy (backup_2022-12-23-0712_All_Product_Handbook_9c1d1434ba47-others.zip)
+0488.128 (0) This backup set is now empty; will remove from history
+0488.129 (0) Deleting log file (log.9c1d1434ba47.txt)
+0488.130 (0) Retain: saving new backup history (sets now: 2) and finishing retain operation
+0488.133 (0) Resume backup (bd704b77633d, 0): finish run
+0488.135 (0) Decremented the semaphore (fd) by 1
+0488.135 (0) Semaphore (fd) unlocked
+0488.136 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0488.139 (0) No email will/can be sent - the user has not configured an email address.
+0488.139 (0) The backup apparently succeeded and is now complete
